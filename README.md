@@ -1,1 +1,3 @@
-# kifak-social
+# kifak
+
+**Status:** In active development
